@@ -1,0 +1,35 @@
+name: Update README Progress
+
+on:
+  push:
+    paths:
+      - '*.java'
+      - '**/*.java'
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install tabulate
+
+      - name: Generate README
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update progress table" || echo "No changes to commit"
+          git push

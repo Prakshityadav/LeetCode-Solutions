@@ -28,11 +28,12 @@ LeetCode-Solutions/
 
 ---
 
-## 🔥 My Progress
-| Day | Problem # | Problem Name | Solution Link |
-|-----|-----------|--------------|---------------|
-| 1   | 869       | Reordered Power of 2 | [View Code](./0869_Reordered_Power_of_2.java) |
-| 2   | 84        | Largest Rectangle in Histogram | [View Code](./0084_Largest_Rectangle_in_Histogram.java) |
+## 📜 Solved Problems
+<!-- START_TABLE -->
+| Problem No. | Problem Name | Code |
+|-------------|--------------|------|
+<!-- END_TABLE -->
+
 ---
 
 ## 💻 How to Run a Solution

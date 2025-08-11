@@ -1,12 +1,18 @@
-name: Update README with Solved Problems
+name: Update README with LeetCode Progress
 
 on:
   push:
+    paths:
+      - "*.java"
+      - "**/*.java"
     branches:
       - main
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -18,10 +24,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
-
-      - name: Install dependencies
-        run: npm install fs path
+          node-version: "18"
 
       - name: Update README
         run: |
@@ -31,32 +34,31 @@ jobs:
 
           const repoPath = '.';
           const readmePath = path.join(repoPath, 'README.md');
-          const codeDir = repoPath;
 
-          // Get all Java files
-          const files = fs.readdirSync(codeDir).filter(f => f.endsWith('.java'));
+          // Get all Java files except README.md
+          const files = fs.readdirSync(repoPath).filter(f => f.endsWith('.java'));
 
-          // Create table rows
+          // Build markdown table
           let table = '| Problem No. | Problem Name | Code |\n|-------------|--------------|------|\n';
           files.sort().forEach(file => {
             const problemNo = file.split('_')[0];
             const problemName = file.replace('.java', '').split('_').slice(1).join(' ');
-            table += `| ${problemNo} | ${problemName} | [View Code](${file}) |\n`;
+            table += `| ${problemNo} | ${problemName} | [View Code](./${file}) |\n`;
           });
 
+          // Replace in README
           let readme = fs.readFileSync(readmePath, 'utf8');
           const start = '<!-- START_TABLE -->';
           const end = '<!-- END_TABLE -->';
           const regex = new RegExp(`${start}[\\s\\S]*${end}`);
           readme = readme.replace(regex, `${start}\n${table}${end}`);
-
           fs.writeFileSync(readmePath, readme);
           EOF
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Auto-update problem table" || echo "No changes"
           git push

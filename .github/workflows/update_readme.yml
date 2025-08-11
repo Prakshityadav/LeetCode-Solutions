@@ -1,16 +1,17 @@
-name: Update README Progress
+name: Update README with LeetCode Progress
 
 on:
   push:
-    paths:
-      - '*.java'
-      - '**/*.java'
-  workflow_dispatch: # allows manual trigger
+    branches:
+      - main
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write  # Required to commit changes
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -18,18 +19,15 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install tabulate
-
-      - name: Generate README
+      - name: Run script to update README
         run: python scripts/update_readme.py
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
           git add README.md
           git commit -m "Auto-update progress table" || echo "No changes to commit"
           git push

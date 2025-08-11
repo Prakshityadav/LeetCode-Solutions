@@ -1,40 +1,62 @@
-name: Update README with LeetCode Progress
+name: Update README with Solved Problems
 
 on:
   push:
-    paths:
-      - '*.java'
-      - '**/*.java'
     branches:
       - main
-  workflow_dispatch: # Allow manual trigger
-
-permissions:
-  contents: write  # Required to commit changes
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          python-version: '3.x'
+          node-version: '18'
 
       - name: Install dependencies
-        run: pip install tabulate
+        run: npm install fs path
 
-      - name: Run script to update README
-        run: python scripts/update_readme.py
-
-      - name: Commit and push changes
+      - name: Update README
         run: |
-          git config --local user.name "github-actions[bot]"
+          node <<'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          const repoPath = '.';
+          const readmePath = path.join(repoPath, 'README.md');
+          const codeDir = repoPath;
+
+          // Get all Java files
+          const files = fs.readdirSync(codeDir).filter(f => f.endsWith('.java'));
+
+          // Create table rows
+          let table = '| Problem No. | Problem Name | Code |\n|-------------|--------------|------|\n';
+          files.sort().forEach(file => {
+            const problemNo = file.split('_')[0];
+            const problemName = file.replace('.java', '').split('_').slice(1).join(' ');
+            table += `| ${problemNo} | ${problemName} | [View Code](${file}) |\n`;
+          });
+
+          let readme = fs.readFileSync(readmePath, 'utf8');
+          const start = '<!-- START_TABLE -->';
+          const end = '<!-- END_TABLE -->';
+          const regex = new RegExp(`${start}[\\s\\S]*${end}`);
+          readme = readme.replace(regex, `${start}\n${table}${end}`);
+
+          fs.writeFileSync(readmePath, readme);
+          EOF
+
+      - name: Commit changes
+        run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Auto-update progress table" || echo "No changes to commit"
+          git commit -m "Auto-update problem table" || echo "No changes"
           git push

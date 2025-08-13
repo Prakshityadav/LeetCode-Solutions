@@ -32,6 +32,7 @@ LeetCode-Solutions/
 <!-- START_TABLE -->
 | Problem No. | Problem Name | Code |
 |-------------|--------------|------|
+| 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |
 | 869-ReorderedPowerOf2.java |  | [View Code](./869-ReorderedPowerOf2.java) |
 <!-- END_TABLE -->

@@ -1,5 +1,5 @@
 //Problem 1 : Two Sum
-
+import java.util.Map;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> pairIdx = new HashMap<>();

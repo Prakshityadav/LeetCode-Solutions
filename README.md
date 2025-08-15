@@ -32,6 +32,7 @@ LeetCode-Solutions/
 <!-- START_TABLE -->
 | Problem No. | Problem Name | Code |
 |-------------|--------------|------|
+| 1-TwoSum.java |  | [View Code](./1-TwoSum.java) |
 | 2264Largest3-Same-DigitNumberinString.java |  | [View Code](./2264Largest3-Same-DigitNumberinString.java) |
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |

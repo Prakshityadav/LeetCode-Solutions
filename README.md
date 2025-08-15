@@ -66,6 +66,3 @@ LeetCode-Solutions/
 
 
 ---
-
-If you want, I can also make this **automatically update the table** whenever you push a new problem, so you won’t have to edit it manually every day.  
-Do you want me to set that up?

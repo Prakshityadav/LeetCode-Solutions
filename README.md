@@ -38,6 +38,7 @@ LeetCode-Solutions/
 | 3-LongestSubstringWithoutRepeatingCharacters.java |  | [View Code](./3-LongestSubstringWithoutRepeatingCharacters.java) |
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |
+| 5-LongestPalindromicSubstring.java |  | [View Code](./5-LongestPalindromicSubstring.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |
 | 869-ReorderedPowerOf2.java |  | [View Code](./869-ReorderedPowerOf2.java) |
 <!-- END_TABLE -->

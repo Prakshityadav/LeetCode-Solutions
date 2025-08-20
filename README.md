@@ -34,10 +34,12 @@ LeetCode-Solutions/
 |-------------|--------------|------|
 | 1-TwoSum.java |  | [View Code](./1-TwoSum.java) |
 | 1323-Maximum69Number.java |  | [View Code](./1323-Maximum69Number.java) |
+| 1700-NumberofStudentsUnabletoEatLunch.java |  | [View Code](./1700-NumberofStudentsUnabletoEatLunch.java) |
 | 2264Largest3-Same-DigitNumberinString.java |  | [View Code](./2264Largest3-Same-DigitNumberinString.java) |
 | 3-LongestSubstringWithoutRepeatingCharacters.java |  | [View Code](./3-LongestSubstringWithoutRepeatingCharacters.java) |
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |
+| 4-MedianofTwoSortedArrays.java |  | [View Code](./4-MedianofTwoSortedArrays.java) |
 | 5-LongestPalindromicSubstring.java |  | [View Code](./5-LongestPalindromicSubstring.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |
 | 869-ReorderedPowerOf2.java |  | [View Code](./869-ReorderedPowerOf2.java) |

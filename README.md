@@ -36,6 +36,7 @@ LeetCode-Solutions/
 | 11-ContainerWithMostWater.java |  | [View Code](./11-ContainerWithMostWater.java) |
 | 1323-Maximum69Number.java |  | [View Code](./1323-Maximum69Number.java) |
 | 1700-NumberofStudentsUnabletoEatLunch.java |  | [View Code](./1700-NumberofStudentsUnabletoEatLunch.java) |
+| 22-GenerateParentheses.java |  | [View Code](./22-GenerateParentheses.java) |
 | 2264Largest3-Same-DigitNumberinString.java |  | [View Code](./2264Largest3-Same-DigitNumberinString.java) |
 | 3-LongestSubstringWithoutRepeatingCharacters.java |  | [View Code](./3-LongestSubstringWithoutRepeatingCharacters.java) |
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |

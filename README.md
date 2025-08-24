@@ -35,6 +35,7 @@ LeetCode-Solutions/
 | 1-TwoSum.java |  | [View Code](./1-TwoSum.java) |
 | 11-ContainerWithMostWater.java |  | [View Code](./11-ContainerWithMostWater.java) |
 | 1323-Maximum69Number.java |  | [View Code](./1323-Maximum69Number.java) |
+| 1493-LongestSubarrayof1'sAfterDeletingOneElement.java |  | [View Code](./1493-LongestSubarrayof1'sAfterDeletingOneElement.java) |
 | 17-LetterCombinationsofaPhoneNumber.java |  | [View Code](./17-LetterCombinationsofaPhoneNumber.java) |
 | 1700-NumberofStudentsUnabletoEatLunch.java |  | [View Code](./1700-NumberofStudentsUnabletoEatLunch.java) |
 | 22-GenerateParentheses.java |  | [View Code](./22-GenerateParentheses.java) |

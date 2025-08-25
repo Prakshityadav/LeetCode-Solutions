@@ -47,6 +47,7 @@ LeetCode-Solutions/
 | 5-LongestPalindromicSubstring.java |  | [View Code](./5-LongestPalindromicSubstring.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |
 | 869-ReorderedPowerOf2.java |  | [View Code](./869-ReorderedPowerOf2.java) |
+| 88-MergeSortedArray.java |  | [View Code](./88-MergeSortedArray.java) |
 | ListNode.java |  | [View Code](./ListNode.java) |
 <!-- END_TABLE -->
 

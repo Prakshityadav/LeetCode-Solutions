@@ -41,6 +41,7 @@ LeetCode-Solutions/
 | 22-GenerateParentheses.java |  | [View Code](./22-GenerateParentheses.java) |
 | 2264Largest3-Same-DigitNumberinString.java |  | [View Code](./2264Largest3-Same-DigitNumberinString.java) |
 | 3-LongestSubstringWithoutRepeatingCharacters.java |  | [View Code](./3-LongestSubstringWithoutRepeatingCharacters.java) |
+| 3000-MaximumAreaofLongestDiagonalRectangle.java |  | [View Code](./3000-MaximumAreaofLongestDiagonalRectangle.java) |
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |
 | 4-MedianofTwoSortedArrays.java |  | [View Code](./4-MedianofTwoSortedArrays.java) |

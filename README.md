@@ -45,6 +45,7 @@ LeetCode-Solutions/
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |
 | 4-MedianofTwoSortedArrays.java |  | [View Code](./4-MedianofTwoSortedArrays.java) |
+| 42-TrappingRainWater.java |  | [View Code](./42-TrappingRainWater.java) |
 | 498-DiagonalTraverse.java |  | [View Code](./498-DiagonalTraverse.java) |
 | 5-LongestPalindromicSubstring.java |  | [View Code](./5-LongestPalindromicSubstring.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |

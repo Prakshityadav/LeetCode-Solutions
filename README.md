@@ -50,6 +50,7 @@ LeetCode-Solutions/
 | 498-DiagonalTraverse.java |  | [View Code](./498-DiagonalTraverse.java) |
 | 5-LongestPalindromicSubstring.java |  | [View Code](./5-LongestPalindromicSubstring.java) |
 | 62-UniquePaths.java |  | [View Code](./62-UniquePaths.java) |
+| 63-UniquePathsII.java |  | [View Code](./63-UniquePathsII.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |
 | 869-ReorderedPowerOf2.java |  | [View Code](./869-ReorderedPowerOf2.java) |
 | 88-MergeSortedArray.java |  | [View Code](./88-MergeSortedArray.java) |

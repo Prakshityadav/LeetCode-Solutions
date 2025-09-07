@@ -34,6 +34,7 @@ LeetCode-Solutions/
 |-------------|--------------|------|
 | 1-TwoSum.java |  | [View Code](./1-TwoSum.java) |
 | 11-ContainerWithMostWater.java |  | [View Code](./11-ContainerWithMostWater.java) |
+| 1304-FindNUniqueIntegersSumuptoZero.java |  | [View Code](./1304-FindNUniqueIntegersSumuptoZero.java) |
 | 1323-Maximum69Number.java |  | [View Code](./1323-Maximum69Number.java) |
 | 14-LongestCommonPrefix.java |  | [View Code](./14-LongestCommonPrefix.java) |
 | 1493-LongestSubarrayof1'sAfterDeletingOneElement.java |  | [View Code](./1493-LongestSubarrayof1'sAfterDeletingOneElement.java) |

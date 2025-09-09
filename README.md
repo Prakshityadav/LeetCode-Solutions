@@ -49,6 +49,7 @@ LeetCode-Solutions/
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |
 | 3516-FindClosestPerson.java |  | [View Code](./3516-FindClosestPerson.java) |
+| 367-ValidPerfectSquare.java |  | [View Code](./367-ValidPerfectSquare.java) |
 | 4-MedianofTwoSortedArrays.java |  | [View Code](./4-MedianofTwoSortedArrays.java) |
 | 41-FirstMissingPositive.java |  | [View Code](./41-FirstMissingPositive.java) |
 | 42-TrappingRainWater.java |  | [View Code](./42-TrappingRainWater.java) |

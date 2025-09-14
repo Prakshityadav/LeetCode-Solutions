@@ -33,6 +33,7 @@ LeetCode-Solutions/
 | Problem No. | Problem Name | Code |
 |-------------|--------------|------|
 | 1-TwoSum.java |  | [View Code](./1-TwoSum.java) |
+| 1025-DivisorGame.java |  | [View Code](./1025-DivisorGame.java) |
 | 11-ContainerWithMostWater.java |  | [View Code](./11-ContainerWithMostWater.java) |
 | 127-WordLadder.java |  | [View Code](./127-WordLadder.java) |
 | 1304-FindNUniqueIntegersSumuptoZero.java |  | [View Code](./1304-FindNUniqueIntegersSumuptoZero.java) |

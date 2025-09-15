@@ -44,6 +44,7 @@ LeetCode-Solutions/
 | 17-LetterCombinationsofPhoneNumber.java |  | [View Code](./17-LetterCombinationsofPhoneNumber.java) |
 | 17-LetterCombinationsofaPhoneNumber.java |  | [View Code](./17-LetterCombinationsofaPhoneNumber.java) |
 | 1700-NumberofStudentsUnabletoEatLunch.java |  | [View Code](./1700-NumberofStudentsUnabletoEatLunch.java) |
+| 1935-MaximumNumberofWordsYouCanType.java |  | [View Code](./1935-MaximumNumberofWordsYouCanType.java) |
 | 22-GenerateParentheses.java |  | [View Code](./22-GenerateParentheses.java) |
 | 2264Largest3-Same-DigitNumberinString.java |  | [View Code](./2264Largest3-Same-DigitNumberinString.java) |
 | 3-LongestSubstringWithoutRepeatingCharacters.java |  | [View Code](./3-LongestSubstringWithoutRepeatingCharacters.java) |

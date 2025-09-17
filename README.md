@@ -52,6 +52,7 @@ LeetCode-Solutions/
 | 3227-VowelsGameinaString.java |  | [View Code](./3227-VowelsGameinaString.java) |
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |
+| 343-IntegerBreak.java |  | [View Code](./343-IntegerBreak.java) |
 | 3516-FindClosestPerson.java |  | [View Code](./3516-FindClosestPerson.java) |
 | 3541-FindMostFrequentVowelandConsonant.java |  | [View Code](./3541-FindMostFrequentVowelandConsonant.java) |
 | 367-ValidPerfectSquare.java |  | [View Code](./367-ValidPerfectSquare.java) |

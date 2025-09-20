@@ -50,6 +50,7 @@ LeetCode-Solutions/
 | 2264Largest3-Same-DigitNumberinString.java |  | [View Code](./2264Largest3-Same-DigitNumberinString.java) |
 | 3-LongestSubstringWithoutRepeatingCharacters.java |  | [View Code](./3-LongestSubstringWithoutRepeatingCharacters.java) |
 | 3000-MaximumAreaofLongestDiagonalRectangle.java |  | [View Code](./3000-MaximumAreaofLongestDiagonalRectangle.java) |
+| 322-CoinChange.java |  | [View Code](./322-CoinChange.java) |
 | 3227-VowelsGameinaString.java |  | [View Code](./3227-VowelsGameinaString.java) |
 | 326-PowerofThree.java |  | [View Code](./326-PowerofThree.java) |
 | 342-PowerofFour.java |  | [View Code](./342-PowerofFour.java) |

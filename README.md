@@ -72,6 +72,7 @@ LeetCode-Solutions/
 | 56-MergeIntervals.java |  | [View Code](./56-MergeIntervals.java) |
 | 62-UniquePaths.java |  | [View Code](./62-UniquePaths.java) |
 | 63-UniquePathsII.java |  | [View Code](./63-UniquePathsII.java) |
+| 67-AddBinary.java |  | [View Code](./67-AddBinary.java) |
 | 746-MinCostClimbingStairs.java |  | [View Code](./746-MinCostClimbingStairs.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |
 | 869-ReorderedPowerOf2.java |  | [View Code](./869-ReorderedPowerOf2.java) |

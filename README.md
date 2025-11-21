@@ -74,6 +74,7 @@ LeetCode-Solutions/
 | 62-UniquePaths.java |  | [View Code](./62-UniquePaths.java) |
 | 63-UniquePathsII.java |  | [View Code](./63-UniquePathsII.java) |
 | 67-AddBinary.java |  | [View Code](./67-AddBinary.java) |
+| 717-1-bitand2-bitCharacters.java |  | [View Code](./717-1-bitand2-bitCharacters.java) |
 | 746-MinCostClimbingStairs.java |  | [View Code](./746-MinCostClimbingStairs.java) |
 | 812-LargestTriangleArea.java |  | [View Code](./812-LargestTriangleArea.java) |
 | 84-LargestRectangleinHistogram.java |  | [View Code](./84-LargestRectangleinHistogram.java) |

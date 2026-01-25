@@ -1,5 +1,5 @@
 // 1984 : Minimum Difference Between Highest and Lowest of K Scores
-
+import java.util.Arrays;
 class Solution {
     public int minimumDifference(int[] nums, int k) {
         if (k == 1) return 0;

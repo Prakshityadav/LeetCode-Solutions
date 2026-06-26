@@ -120,11 +120,13 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |

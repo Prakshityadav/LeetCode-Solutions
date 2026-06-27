@@ -127,6 +127,7 @@ LeetCode-Solutions/
 | ------- |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Design
 |  |
 | ------- |

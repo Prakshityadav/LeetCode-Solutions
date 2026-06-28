@@ -146,11 +146,13 @@ LeetCode-Solutions/
 | ------- |
 | [0039-combination-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@ LeetCode-Solutions/
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |

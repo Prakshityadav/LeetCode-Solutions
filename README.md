@@ -156,6 +156,7 @@ LeetCode-Solutions/
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -195,6 +196,7 @@ LeetCode-Solutions/
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -205,6 +207,7 @@ LeetCode-Solutions/
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 ## Divide and Conquer
 |  |
 | ------- |

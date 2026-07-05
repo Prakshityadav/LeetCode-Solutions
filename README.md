@@ -146,6 +146,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -155,6 +156,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
@@ -258,4 +260,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

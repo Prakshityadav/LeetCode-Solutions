@@ -164,7 +164,7 @@ LeetCode-Solutions/
 ## Depth-First Search
 |  |
 | ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -175,7 +175,7 @@ LeetCode-Solutions/
 ## Breadth-First Search
 |  |
 | ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -216,7 +216,7 @@ LeetCode-Solutions/
 ## Tree
 |  |
 | ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
@@ -229,7 +229,7 @@ LeetCode-Solutions/
 ## Binary Tree
 |  |
 | ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |

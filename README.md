@@ -120,6 +120,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -150,6 +151,7 @@ LeetCode-Solutions/
 | [0046-permutations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -198,12 +200,14 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Greedy
 |  |
@@ -274,4 +278,12 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

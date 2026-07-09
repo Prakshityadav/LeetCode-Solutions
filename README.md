@@ -199,6 +199,7 @@ LeetCode-Solutions/
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

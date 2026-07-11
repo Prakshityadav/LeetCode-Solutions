@@ -119,6 +119,7 @@ LeetCode-Solutions/
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -149,6 +150,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |

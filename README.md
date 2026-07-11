@@ -136,6 +136,7 @@ LeetCode-Solutions/
 | ------- |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -171,6 +172,7 @@ LeetCode-Solutions/
 | [0207-course-schedule](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -180,6 +182,7 @@ LeetCode-Solutions/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -202,6 +205,7 @@ LeetCode-Solutions/
 | [0006-zigzag-conversion](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -224,6 +228,7 @@ LeetCode-Solutions/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -237,6 +242,7 @@ LeetCode-Solutions/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer

@@ -213,6 +213,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -298,5 +299,10 @@ LeetCode-Solutions/
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

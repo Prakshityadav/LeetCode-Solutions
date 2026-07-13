@@ -157,6 +157,7 @@ LeetCode-Solutions/
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -279,6 +280,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Topological Sort
 |  |
 | ------- |

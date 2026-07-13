@@ -157,6 +157,7 @@ LeetCode-Solutions/
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -218,6 +219,7 @@ LeetCode-Solutions/
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -253,6 +255,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -310,4 +313,12 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

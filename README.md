@@ -153,6 +153,7 @@ LeetCode-Solutions/
 | [0041-first-missing-positive](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -217,6 +218,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -258,6 +260,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree

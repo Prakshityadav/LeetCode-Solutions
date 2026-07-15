@@ -316,6 +316,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -333,4 +334,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

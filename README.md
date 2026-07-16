@@ -166,6 +166,7 @@ LeetCode-Solutions/
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -308,6 +309,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Trie
 |  |
 | ------- |
@@ -320,6 +322,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
@@ -342,4 +345,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->

@@ -189,6 +189,7 @@ LeetCode-Solutions/
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -198,12 +199,14 @@ LeetCode-Solutions/
 | [0207-course-schedule](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0684-redundant-connection](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
@@ -312,6 +315,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 ## Sorting
 |  |
 | ------- |

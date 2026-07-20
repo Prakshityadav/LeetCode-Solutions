@@ -132,6 +132,7 @@ LeetCode-Solutions/
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Design
@@ -140,6 +141,7 @@ LeetCode-Solutions/
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -167,6 +169,7 @@ LeetCode-Solutions/
 | [0300-longest-increasing-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -358,6 +361,7 @@ LeetCode-Solutions/
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |

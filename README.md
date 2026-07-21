@@ -120,6 +120,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -232,6 +233,7 @@ LeetCode-Solutions/
 | [0006-zigzag-conversion](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -320,6 +322,7 @@ LeetCode-Solutions/
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Topological Sort

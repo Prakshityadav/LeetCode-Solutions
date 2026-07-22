@@ -237,6 +237,7 @@ LeetCode-Solutions/
 | [0127-word-ladder](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -400,4 +401,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->

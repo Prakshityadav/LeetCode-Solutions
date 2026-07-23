@@ -164,6 +164,7 @@ LeetCode-Solutions/
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -354,6 +355,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -404,5 +406,6 @@ LeetCode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->

@@ -431,4 +431,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->

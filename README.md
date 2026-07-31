@@ -247,6 +247,7 @@ LeetCode-Solutions/
 | [0412-fizz-buzz](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0796-rotate-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -439,4 +440,8 @@ LeetCode-Solutions/
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

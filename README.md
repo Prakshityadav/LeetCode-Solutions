@@ -172,6 +172,7 @@ LeetCode-Solutions/
 | [0152-maximum-product-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -383,6 +384,7 @@ LeetCode-Solutions/
 | ------- |
 | [0062-unique-paths](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -400,6 +402,7 @@ LeetCode-Solutions/
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 ## Queue
 |  |
@@ -414,6 +417,7 @@ LeetCode-Solutions/
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix

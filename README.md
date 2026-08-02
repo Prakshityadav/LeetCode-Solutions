@@ -152,6 +152,7 @@ LeetCode-Solutions/
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
@@ -165,6 +166,7 @@ LeetCode-Solutions/
 | [0053-maximum-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -423,6 +425,7 @@ LeetCode-Solutions/
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bucket Sort
 |  |

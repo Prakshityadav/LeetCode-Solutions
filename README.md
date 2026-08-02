@@ -163,6 +163,7 @@ LeetCode-Solutions/
 | [0046-permutations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -357,6 +358,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -439,6 +441,7 @@ LeetCode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |

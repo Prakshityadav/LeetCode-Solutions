@@ -128,6 +128,7 @@ LeetCode-Solutions/
 | [0141-linked-list-cycle](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -268,6 +269,7 @@ LeetCode-Solutions/
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -368,6 +370,7 @@ LeetCode-Solutions/
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Topological Sort
 |  |
@@ -481,6 +484,7 @@ LeetCode-Solutions/
 | [0141-linked-list-cycle](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Counting Sort
 |  |

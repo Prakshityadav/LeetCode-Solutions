@@ -195,6 +195,7 @@ LeetCode-Solutions/
 | [0994-rotting-oranges](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -366,6 +367,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |

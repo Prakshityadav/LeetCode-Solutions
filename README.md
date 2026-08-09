@@ -201,6 +201,7 @@ LeetCode-Solutions/
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
@@ -300,6 +301,7 @@ LeetCode-Solutions/
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Recursion
 |  |
 | ------- |

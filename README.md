@@ -148,6 +148,7 @@ LeetCode-Solutions/
 | ------- |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
@@ -252,6 +253,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -393,6 +395,7 @@ LeetCode-Solutions/
 | ------- |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -490,6 +493,7 @@ LeetCode-Solutions/
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -510,4 +514,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

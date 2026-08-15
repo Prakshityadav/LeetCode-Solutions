@@ -128,6 +128,7 @@ LeetCode-Solutions/
 | [0141-linked-list-cycle](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -189,6 +190,7 @@ LeetCode-Solutions/
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -375,6 +377,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window

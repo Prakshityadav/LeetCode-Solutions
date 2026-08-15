@@ -513,6 +513,7 @@ LeetCode-Solutions/
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1068-product-sales-analysis-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1280-students-and-examinations) |

@@ -515,6 +515,7 @@ LeetCode-Solutions/
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## String Matching
 |  |
 | ------- |

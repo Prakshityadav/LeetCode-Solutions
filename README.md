@@ -280,6 +280,7 @@ LeetCode-Solutions/
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -304,6 +305,7 @@ LeetCode-Solutions/
 | [0213-house-robber-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |

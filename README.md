@@ -286,6 +286,7 @@ LeetCode-Solutions/
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -308,6 +309,7 @@ LeetCode-Solutions/
 | [0516-longest-palindromic-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
@@ -533,4 +535,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

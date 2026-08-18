@@ -135,6 +135,7 @@ LeetCode-Solutions/
 | [1331-rank-transform-of-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -211,6 +212,7 @@ LeetCode-Solutions/
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |

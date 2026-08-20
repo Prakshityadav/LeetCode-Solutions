@@ -211,6 +211,7 @@ LeetCode-Solutions/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -503,6 +504,7 @@ LeetCode-Solutions/
 | [0566-reshape-the-matrix](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |

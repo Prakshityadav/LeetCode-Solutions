@@ -1,20 +1,21 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        boolean[] boolArr = new boolean[1001];
-        for(int n : nums1) {
-            boolArr[n] = true;
+        ArrayList<Integer> list=new ArrayList<>();
+        HashSet<Integer> set=new HashSet<>();
+        for(int num:nums1){
+            set.add(num);
         }
-        int idx = 0;
-        for(int n : nums2) {
-            if(boolArr[n] == true) {
-                nums1[idx++] = n;
-                boolArr[n] = false;
+        for(int num:nums2){
+            if(set.contains(num)){
+                if(!list.contains(num)){
+                    list.add(num);
+                }
             }
         }
-        int[] interArr = new int[idx];
-        for(int i=0; i<idx; i++) {
-            interArr[i] = nums1[i];
+        int[] result = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            result[i] = list.get(i); 
         }
-        return interArr;
+        return result;
     }
 }

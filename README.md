@@ -119,6 +119,7 @@ LeetCode-Solutions/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -169,6 +170,7 @@ LeetCode-Solutions/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0041-first-missing-positive) |

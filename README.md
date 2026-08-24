@@ -146,6 +146,7 @@ LeetCode-Solutions/
 | [0023-merge-k-sorted-lists](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -330,6 +331,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |

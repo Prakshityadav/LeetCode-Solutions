@@ -180,6 +180,7 @@ LeetCode-Solutions/
 | [0046-permutations](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -494,6 +495,7 @@ LeetCode-Solutions/
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -516,6 +518,7 @@ LeetCode-Solutions/
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |

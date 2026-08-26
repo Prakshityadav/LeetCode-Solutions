@@ -305,6 +305,7 @@ LeetCode-Solutions/
 | [1768-merge-strings-alternately](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -409,6 +410,7 @@ LeetCode-Solutions/
 | [0209-minimum-size-subarray-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Topological Sort

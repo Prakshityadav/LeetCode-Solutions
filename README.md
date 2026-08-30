@@ -169,6 +169,7 @@ LeetCode-Solutions/
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0962-maximum-width-ramp](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
@@ -207,6 +208,7 @@ LeetCode-Solutions/
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0962-maximum-width-ramp](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -516,6 +518,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0962-maximum-width-ramp](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bucket Sort
 |  |
@@ -549,6 +552,7 @@ LeetCode-Solutions/
 | [0349-intersection-of-two-arrays](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0962-maximum-width-ramp](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Counting Sort
 |  |

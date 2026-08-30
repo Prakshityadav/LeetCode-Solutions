@@ -16,8 +16,9 @@ class Solution {
         }
         int left=Math.min(minIndex,maxIndex);
         int right=Math.max(minIndex,maxIndex);
-
+        // left side
         int option1=right+1;
+        // right side
         int option2=nums.length-left;
 
         int option3=left+1+nums.length-right;

@@ -198,6 +198,7 @@ LeetCode-Solutions/
 | [0300-longest-increasing-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -467,6 +468,7 @@ LeetCode-Solutions/
 | [0189-rotate-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |

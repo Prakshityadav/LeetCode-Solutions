@@ -135,6 +135,7 @@ LeetCode-Solutions/
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -310,6 +311,7 @@ LeetCode-Solutions/
 | [1143-longest-common-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

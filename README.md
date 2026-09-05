@@ -233,6 +233,7 @@ LeetCode-Solutions/
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -418,6 +419,7 @@ LeetCode-Solutions/
 | [1480-running-sum-of-1d-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |

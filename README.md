@@ -140,6 +140,7 @@ LeetCode-Solutions/
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -230,6 +231,7 @@ LeetCode-Solutions/
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -361,6 +363,7 @@ LeetCode-Solutions/
 | [0206-reverse-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -509,6 +512,7 @@ LeetCode-Solutions/
 | ------- |
 | [0204-count-primes](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |

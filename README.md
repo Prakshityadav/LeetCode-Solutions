@@ -153,6 +153,7 @@ LeetCode-Solutions/
 | [0206-reverse-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Design
 |  |

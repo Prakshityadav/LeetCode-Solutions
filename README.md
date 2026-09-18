@@ -218,6 +218,7 @@ LeetCode-Solutions/
 | [0962-maximum-width-ramp](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1260-shift-2d-grid](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -355,6 +356,7 @@ LeetCode-Solutions/
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |

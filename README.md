@@ -235,6 +235,7 @@ LeetCode-Solutions/
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -506,6 +507,7 @@ LeetCode-Solutions/
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |

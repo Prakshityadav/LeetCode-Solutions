@@ -141,6 +141,7 @@ LeetCode-Solutions/
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -237,6 +238,7 @@ LeetCode-Solutions/
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -429,6 +431,7 @@ LeetCode-Solutions/
 | [0347-top-k-frequent-elements](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |

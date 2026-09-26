@@ -139,6 +139,7 @@ LeetCode-Solutions/
 | [1331-rank-transform-of-an-array](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -336,6 +337,7 @@ LeetCode-Solutions/
 | [1796-second-largest-digit-in-a-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -438,6 +440,7 @@ LeetCode-Solutions/
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum

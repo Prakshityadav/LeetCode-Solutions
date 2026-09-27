@@ -178,6 +178,7 @@ LeetCode-Solutions/
 | [0155-min-stack](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0962-maximum-width-ramp](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -332,6 +333,7 @@ LeetCode-Solutions/
 | [1143-longest-common-subsequence](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -659,4 +661,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prakshityadav/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
